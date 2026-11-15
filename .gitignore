@@ -3,14 +3,14 @@ balance
 .DS_Store
 *.local.md
 
-# Unreal Engine (VillageHeadman/ projesi)
-VillageHeadman/Binaries/
-VillageHeadman/Intermediate/
-VillageHeadman/Saved/
-VillageHeadman/DerivedDataCache/
-VillageHeadman/Build/
-VillageHeadman/Plugins/*/Binaries/
-VillageHeadman/Plugins/*/Intermediate/
+# Unreal Engine (headmenVillage/ projesi)
+headmenVillage/Binaries/
+headmenVillage/Intermediate/
+headmenVillage/Saved/
+headmenVillage/DerivedDataCache/
+headmenVillage/Build/
+headmenVillage/Plugins/*/Binaries/
+headmenVillage/Plugins/*/Intermediate/
 
 # Visual Studio / Rider
 .vs/
